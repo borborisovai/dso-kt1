@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 Creature a = new Creature();
 Console.WriteLine(a.a);
+Block b = new Block();
+Console.WriteLine(b.b);
